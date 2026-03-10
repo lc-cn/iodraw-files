@@ -16,8 +16,18 @@
         <mxCell id="ynZCEUUn-yQVXuOKq2JY-5" value="feature/1.0.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="300" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ynZCEUUn-yQVXuOKq2JY-6" value="feature/1.0.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="310" width="100" height="40" as="geometry" />
+        <mxCell id="ynZCEUUn-yQVXuOKq2JY-6" value="hotfix/1.0.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ynZCEUUn-yQVXuOKq2JY-7" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="340" as="sourcePoint" />
+            <mxPoint x="430" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="340" />
+              <mxPoint x="380" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
